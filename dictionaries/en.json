@@ -1,0 +1,10 @@
+{
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "checkCache":"From English",
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  }
+}

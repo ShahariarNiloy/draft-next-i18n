@@ -1,0 +1,10 @@
+{
+  "server-component": {
+    "welcome": "Vítejte"
+  },
+  "checkCache":"From CS",
+  "counter": {
+    "increment": "Přidat",
+    "decrement": "Ubrat"
+  }
+}
